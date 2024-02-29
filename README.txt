@@ -39,7 +39,9 @@ How to Run the Code:
 streamlit run pet_health_portal.py
 ```
 3. Open a web browser and go to the provided URL to access the Pet Health Portal.
-
+Login Information:
+- Username: dummyuser
+- Password: dummypassword
 ```
 
 You can save this content in a file named `README.txt` or `README.md` in your project directory.
