@@ -44,4 +44,3 @@ Login Information:
 - Password: dummypassword
 ```
 
-You can save this content in a file named `README.txt` or `README.md` in your project directory.
