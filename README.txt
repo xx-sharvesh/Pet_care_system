@@ -29,14 +29,15 @@ How to Install Requirements:
 1. Make sure your virtual environment is activated.
 2. Install the required Python packages using pip:
 ```
-pip install -r requirements.txt
+pip install streamlit pandas openpyxl
+
 ```
 
 How to Run the Code:
 1. Ensure your virtual environment is activated.
 2. Run the Streamlit app using the following command:
 ```
-streamlit run pet_health_portal.py
+streamlit run app.py
 ```
 3. Open a web browser and go to the provided URL to access the Pet Health Portal.
 Login Information:
