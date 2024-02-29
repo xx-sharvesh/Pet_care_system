@@ -6,7 +6,7 @@ This project is a web application for managing pet health records, allowing user
 How to Git Clone the Project:
 You can clone the project repository from GitHub using the following command:
 ```
-git clone https://github.com/your_username/pet_health_portal.git
+git clone https://github.com/xx-sharvesh/Pet_care_system.git
 ```
 
 How to Set Up a Virtual Environment and Activate It:
